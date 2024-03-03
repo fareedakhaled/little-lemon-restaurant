@@ -165,8 +165,18 @@ input, label{
 
 }
 
-.comfirm span{
-  color: blue;
+.confirm{
+  padding: 50px 400px;
+  background-color: #4a5f58de;
+  background-image:url("images/logo_footer.png");
+}
+
+.confirm h1{
+  color:white;
+}
+
+.confirm span{
+  color: rgb(3, 3, 48);
 }
 
 
