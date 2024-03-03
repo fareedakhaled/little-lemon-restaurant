@@ -16,6 +16,6 @@ Please note: the only functionality working on this website besides the design i
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
-![little lemon website table booking](/src/images/github-home.png)
+![little lemon website table booking](/src/images/github-homee.png)
 ![little lemon website table booking](/src/images/github-reserve.png)
 
